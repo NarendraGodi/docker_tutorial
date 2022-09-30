@@ -8,7 +8,7 @@ Docker Follows a Client-Server Architecture and the 3 main components of Docker 
  2. Docker Host(Server)
  3. Docker Registry
 
-![Docker_Architecture](images/Docker_Architecture.png)
+![Docker_Architecture](images/Docker_Architecture.png)  
 **Docker Client** is the interface used by the developers to create the containers and the client uses commands and REST API to communicate with the Server.
 
 **The Docker Host** will enable the necessary environment for the developer to create applications and the host consists of docker daemon, images, containers, networks, and storage.
