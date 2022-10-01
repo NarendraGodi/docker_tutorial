@@ -1,4 +1,4 @@
-List of most widely used Docker Commands.  
+### List of most widely used Docker Commands.  
 
  - **docker run < image >** : This command will spin up a container based on the image name provided.  
  - **docker stop < container id >** : This command will stop a running container.  
