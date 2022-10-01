@@ -24,4 +24,4 @@ We can also pass few parameters before running the container.
 How to do the port mapping ?  
 Ans: **docker run  -p < host port >:< container port >  --name= < container name > < image name >**  
 how to pass environment variables ?  
-Ans: **docker run -e < env name > : < env value > < image name>*
+Ans: **docker run -e < env name > : < env value > < image name>**
