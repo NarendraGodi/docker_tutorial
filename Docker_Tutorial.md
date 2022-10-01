@@ -15,7 +15,7 @@ Docker Follows a Client-Server Architecture and the 3 main components of Docker 
 
 **The Docker Registry** will store and manages the docker images. Docker Registry is of two types, Public and Private. Public repositories are accessible by everyone where as Private repositories are used by the organisations for their own purposes.
 
-What are the types of Docker Objects ?
+**What are the types of Docker Objects ?**  
 The list of Docker Objects are as follows.
 
  - [ ] Docker Images
